@@ -1,0 +1,45 @@
+{
+  "skills": ["JavaScript", "HTML", "CSS"],
+  "experience": [],
+
+  "education": [
+    {
+      "institution": "Noroff. School of technology and digital media",
+      "degree": "Network and system administation",
+      "years": "2021-2023"
+    },
+    {
+      "institution": "Gokstad Akademiet Sandefjord",
+      "degree": "Frontend Developer",
+      "years": "2021-2024"
+    }
+  ],
+  "courses": [],
+  "nonITExperience": [
+    {
+      "company": "Accon AS",
+      "position": "Warehouse Manager",
+      "years": "2019-2020"
+    },
+    {
+      "company": "Wilhelmsen Chemicals",
+      "position": "Order processor ",
+      "years": "2017-2019"
+    },
+    {
+      "company": "Wilhelmsen Chemicals",
+      "position": "Warehouse Worker",
+      "years": "2015-2017"
+    },
+    {
+      "company": "National Oilwell Varco",
+      "position": "Logistics Coordinator",
+      "years": "2013-2014"
+    },
+    {
+      "company": "National Oilwell Varco",
+      "position": "Warehouse Field Responsible",
+      "years": "2011-2015"
+    }
+  ]
+}
